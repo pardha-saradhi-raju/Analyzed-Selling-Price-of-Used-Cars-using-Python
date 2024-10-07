@@ -93,5 +93,3 @@ This project provides an in-depth exploration of the factors affecting used car 
 - Expand the dataset to include more car makes and features.
 - Explore time-series data to predict price changes over time.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
